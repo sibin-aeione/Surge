@@ -1,5 +1,5 @@
 {
-	"name": "Minds/Surge",
+	"name": "sibin-aeione/Surge",
 	"description": "A php library for sending push notifications",
     "autoload": {
        "psr-4": { "Surge\\": "src/" }
